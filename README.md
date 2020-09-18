@@ -32,7 +32,7 @@
 <img src="images/flashchat.gif" width="250" />
 
 ### Built With
-* [Firebase][https://firebase.google.com]
+* [Firebase](https://firebase.google.com)
 
 <!-- Learning Outcomes -->
 ## Learning Outcomes
