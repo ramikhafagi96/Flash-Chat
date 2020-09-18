@@ -6,10 +6,10 @@
     <img src="images/1024.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Clima</h3>
+  <h3 align="center">Flash Chat</h3>
 
   <p align="center">
-    An awesome weather application
+    An awesome chatting application
     <br />
     <a href="https://github.com/ramikhafagi96/Flash-Chat#about-the-project">View Demo</a>
     ·
